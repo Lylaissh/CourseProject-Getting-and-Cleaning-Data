@@ -2,8 +2,9 @@
 
 
 ### Description of variables used in the script <br />
-### to create tidy data
+### to create tidy data.
 
+Assumption: Code book shows description of variables used in the script code only. <br />
 
 features -		The names of the feature variables in the data set <br />
 activity_labels	-	The activity labels used for experiment <br />
